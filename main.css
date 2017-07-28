@@ -38,6 +38,14 @@ main .freq-article {
   line-height: 1.75;
   color: #777;
 }
+#check-demos {
+  border: 1px solid #fff;
+  background-color: #fed136;
+  border-radius: 3px;
+}
+#check-demos:hover {
+  background-color: #fff;
+}
 /* 导航栏 */
 #navbar {
   background-color: rgba(2,2,2,0.7);
@@ -81,7 +89,7 @@ main .freq-article {
 /* main */
 /* bootstrap */
 main .intro {
-  background-image: url(https://nyaapass.github.io/jirengu/basic-15/img/header-bg.jpg);
+  background-image: url(http://book.jirengu.com/jirengu-inc/jrg-tehui/homework/%E8%8B%A5%E6%84%9A/16/img/header-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
